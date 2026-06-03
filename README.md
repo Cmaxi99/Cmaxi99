@@ -2,23 +2,29 @@
 
 # 👋 Hola, soy Maxi
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Backend+%2B+Automatizaci%C3%B3n+%2B+IA;Construyendo+proyectos+propios+en+Raspberry+Pi" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Backend+%2B+Automatizaci%C3%B3n+%2B+IA;Proyectos+self-hosted+en+Raspberry+Pi;Desarrollando+addons+custom+en+Odoo" alt="Typing SVG" />
+
+<br />
+
+```txt
+Backend · Automatización · IA · Self-hosting · Odoo · Raspberry Pi
+```
 
 </div>
 
 ---
 
-### Sobre mí
+## Sobre mí
 
-Soy estudiante de **Ingeniería en Sistemas de Información** y me interesa construir soluciones reales combinando desarrollo backend, automatización, inteligencia artificial y proyectos self-hosted.
+Soy estudiante de **Ingeniería en Sistemas de Información**, interesado en el desarrollo de software, la automatización, la inteligencia artificial y la creación de proyectos propios.
 
-Actualmente estoy trabajando en **proyectos propios privados** desplegados en mi **Raspberry Pi**, utilizando **Odoo** como base y desarrollando **addons custom** para adaptar funcionalidades a necesidades específicas.
+Actualmente estoy trabajando en **proyectos privados self-hosted** en mi **Raspberry Pi**, utilizando **Odoo** como base y desarrollando **addons custom** para adaptar funcionalidades a necesidades específicas.
 
-También estoy explorando y utilizando herramientas de IA aplicadas al desarrollo, principalmente con el stack **Engram + gentle-ai**, apoyándome en modelos como **Codex** y **MiniMax** para acelerar el análisis, diseño y construcción de software.
+También estoy utilizando herramientas de IA aplicadas al desarrollo, principalmente con el stack **Engram + gentle-ai**, apoyándome en modelos como **Codex** y **MiniMax**.
 
 ---
 
-### Tecnologías que uso
+## Tecnologías
 
 <div align="center">
 
@@ -38,15 +44,17 @@ También estoy explorando y utilizando herramientas de IA aplicadas al desarroll
 ![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Astro](https://img.shields.io/badge/Astro-111827?style=for-the-badge&logo=astro&logoColor=FF5D01)
-![HTML](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-111827?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
+![Odoo](https://img.shields.io/badge/Odoo-111827?style=for-the-badge&logo=odoo&logoColor=714B67)
 
 </div>
 
 ---
 
-### Actualmente trabajando en
+## Actualmente trabajando en
 
 ```txt
 Raspberry Pi
@@ -54,10 +62,32 @@ Raspberry Pi
 ├── Odoo
 │   ├── Desarrollo de addons custom
 │   ├── Automatizaciones
-│   └── Adaptación de módulos
+│   └── Adaptación de funcionalidades
 ├── IA aplicada al desarrollo
 │   ├── Engram
 │   ├── gentle-ai
 │   ├── Codex
 │   └── MiniMax
-└── Automatización y backend
+└── Backend y automatización
+```
+
+---
+
+## Intereses
+
+```txt
+> Desarrollo backend
+> Automatización de procesos
+> Inteligencia artificial aplicada al código
+> Proyectos self-hosted
+> Raspberry Pi
+> Odoo y desarrollo de módulos personalizados
+```
+
+---
+
+<div align="center">
+
+### Construyendo, probando y aprendiendo con proyectos reales.
+
+</div>
